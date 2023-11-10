@@ -1,3 +1,3 @@
 # Bloggers
 
-## testing from vsc
+## testing from vsc and git bash
